@@ -1,5 +1,5 @@
-Q1 Write a program to input two numbers and display their sum. 
-code:-
+//Q1 Write a program to input two numbers and display their sum. 
+//code:-
   
 #include <stdio.h>
 int main()
@@ -12,13 +12,10 @@ int main()
     return 0;
 }
 
-output:-
-enter two integers: 10,2
-sum of 10 and 2 is 12
 
-Q2 Write a program to input two numbers and display their sum, difference, product, and quotient.
+//Q2 Write a program to input two numbers and display their sum, difference, product, and quotient.
 
-code :-
+//code :-
 
 #include <stdio.h>
 
@@ -37,11 +34,3 @@ int main()
     printf("quotient of %d and %d is %d\n",a,b,quotient);
     return 0;
 }
-
-output:-
-
-enter two integers:10,2
-sum of 10 and 2 is 12
-difference of 10 and 2 is 8
-product of 10 and 2 is 20
-quotient of 10 and 2 is 5
