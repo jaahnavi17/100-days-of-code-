@@ -1,7 +1,7 @@
 
-Q9 Write a program to calculate simple and compound interest for given principal, rate, and time.
+//Q9 Write a program to calculate simple and compound interest for given principal, rate, and time.
 
-  code:-
+  //code:-
 
     #include <stdio.h>
 #include<math.h>
@@ -21,10 +21,7 @@ int main()
     return 0;
 }
 
-output:-
-  enter principle , rate and time = 1000,4,5
-simple intrest =200.00
-compound interest = 216.65
+
 
     
 
