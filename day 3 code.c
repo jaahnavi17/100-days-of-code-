@@ -1,6 +1,6 @@
-Q5 Write a program to convert temperature from Celsius to Fahrenheit.
+//Q5 Write a program to convert temperature from Celsius to Fahrenheit.
 
-  code:-
+  //code:-
 
     #include <stdio.h>
 
@@ -13,14 +13,10 @@ int main()
     printf("temp in fahrenheit =%d\n",a);
 }
 
-output:-
 
-  temp in celsius=23
-temp in fahrenheit =73
+ // Q6 Write a program to swap two numbers using a third variable.
 
-  Q6 Write a program to swap two numbers using a third variable.
-
-  code:-
+ // code:-
 
 #include <stdio.h>
 
@@ -40,8 +36,4 @@ int main()
     return 0;
 }
 
-
-output:-
-  enter two numbers = 3,4
-after swap = 4,3
   
