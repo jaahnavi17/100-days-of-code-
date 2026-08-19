@@ -12,16 +12,14 @@ int main()
     return 0;
 }
 
-output:-
 
-  enter two numbers = 14,7
-after swap = 7,14
+ 
 
 
-  Q8 
-Write a program to find and display the sum of the first n natural numbers.
+//  Q8 
+//Write a program to find and display the sum of the first n natural numbers.
 
-code:-
+//code:-
 #include <stdio.h>
 
 int main()
@@ -35,11 +33,6 @@ int main()
 
     return 0;
 }
-
-output:-
-
-  enter a number = 5
-sum of n natural numbers = 15
   
 
 
